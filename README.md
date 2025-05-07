@@ -2,7 +2,7 @@
 
 A prime number finder using Sieve of Sundaram - an algorithm for finding all the primes less than a given number N.
 
-The algorithm works on the observation that all given primes that are greater than 2 can be written in the form of 2i+1.
+This algorithm works on the observation that all given primes that are greater than 2 can be written in the form of 2i+1.
 So this algorithm works to remove numbers that are of the form i + j + 2ij for all 1 ≤ i ≤ j such that i + j + 2ij ≤ n.
 This method follows the operation of crossing out composite numbers that are multiples of the current prime number.
 
