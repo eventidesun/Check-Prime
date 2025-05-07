@@ -1,6 +1,6 @@
 public class FindPrimesSundaram {
     public static void main(String[] args) {
-        int N = 30;
+        int N = 100;
 
         // Step 1: Need to calculate n
         int n = (N - 2) / 2;
