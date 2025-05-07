@@ -20,3 +20,6 @@ Steps:
 5. Finally the numbers i that remain true would give primes as 2i + 1.
 
 These steps are shown through the code presented in FindPrimesSundaram.java.
+
+Image of the output (finding all the primes below 100)
+<img width="688" alt="Screenshot 2025-05-07 at 2 08 32 PM" src="https://github.com/user-attachments/assets/6deaca06-cc8c-420a-88bd-ef7946296bf0" />
