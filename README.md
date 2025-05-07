@@ -18,3 +18,5 @@ Steps:
    we would mark i + j + 2ij as false.
 
 5. Finally the numbers i that remain true would give primes as 2i + 1.
+
+These steps are shown through the code presented in FindPrimesSundaram.java.
