@@ -1,4 +1,4 @@
-# Check-Prime
+# Find Primes Using Sieve of Sundaram
 
 A prime number finder using Sieve of Sundaram.
 
